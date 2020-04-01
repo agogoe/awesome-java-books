@@ -87,10 +87,9 @@
  * [《大话Java：程序设计从入门到精通（含DVD光盘1张）》](https://www.coderxing.com/r.php?r=https://u.jd.com/td3bUo)
  * [《Java语言袖珍指南（第二版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/HOFu01)
 
-
 ## 基础书籍
 
- * [《Java编程思想（第4版） [thinking in java]》](https://www.coderxing.com/r.php?r=https://u.jd.com/ajylTp) - 豆瓣评分 9.1
+ * ~~[《Java编程思想（第4版） [thinking in java]》](https://www.coderxing.com/r.php?r=https://u.jd.com/ajylTp) - 豆瓣评分 9.1~~
  * [《Java核心技术 卷I：基础知识（原书第10版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/tp87o1) - 豆瓣评分 8.2
  * [《Java核心技术卷II：高级特性（原书第10版）》](https://www.coderxing.com/r.php?r=https://u.jd.com/fYGMsC) - 豆瓣评分 7.7
 
